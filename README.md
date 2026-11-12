@@ -24,7 +24,23 @@ Flask . Sinatra . SQLAlchemy . SQLite . Git . Docker
 
 ### Featured Projects
 
-Coming soon...
+**Galaxy Classifier**
+A collaborative project focused on galaxy image classification using Machine Learning, built around a client-server architecure.
+
+#### My contribution - Flask API & Service Orchestration
+
+- Developed REST API endpoints using Flask.
+- Implemented backend services to handle application logic and coordinate interactions between components.
+- Integrated services for image processing, storage, and database persistance.
+
+#### Technologies:
+
+- Python
+- Flask
+- REST API
+- Werkzeug
+
+[View Repository] (https://github.com/Proyecto-2025/Machine_Learning_Galaxyes_Classifier_Project.git)
 
 ### Contact
 
